@@ -1,4 +1,4 @@
-# Demo of HashiCorp Vault Advanced Data Protection tokenization feature
+# Demo of HashiCorp Vault Transit Engine and Advanced Data Protection features
 This is using a Jupyter notebook to execute the steps required.
 It also assumes that you have HashiCorp Vault installed and configured on your side.
 
